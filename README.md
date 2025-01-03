@@ -3,7 +3,7 @@
 This project is all about using cutting-edge tools to analyze social media performance. With **DataStax AstraDB**, we handle large amounts of data efficiently, and with **LangFlow**, we use powerful AI models to extract insights and automate tasks.
 
 ## What This Project Does
-- **Data Storage**: AstraDB is our database for storing and retrieving social media data securely and at scale.
+- **Data Storage**: AstraDB is our database for secure and scalable storage and retrieval of social media data.
 - **AI-Driven Insights**: We use LangChain, OpenAI, and Google Generative AI to analyze the data and provide meaningful insights.
 - **Workflows**: LangFlow helps us create step-by-step workflows for using AI models seamlessly.
 
@@ -27,4 +27,4 @@ Make sure you have:
    - The AI-powered workflows will process the data and provide clear, actionable insights that you can use for decision-making or reporting.
 
 ## Why Use This?
-This project simplifies the process of working with social media data by combining the best of cloud databases and AI. Whether you’re a data scientist, a marketer, or just curious about social media trends, it has something for you!
+This project simplifies working with social media data by combining the best of cloud databases and AI. Whether you’re a data scientist, a marketer, or just curious about social media trends, it has something for you!
