@@ -10,3 +10,6 @@ This project is all about using cutting-edge tools to analyze social media perfo
 
 ## Why Use This?
 This project simplifies the process of working with social media data by combining the best of cloud databases and AI. Whether you’re a data scientist, a marketer, or just curious about social media trends, it has something for you!
+
+## Youtube Link
+https://youtu.be/7OxHoSHrp2I?si=B7VpYjs0k3Fl7HOI
